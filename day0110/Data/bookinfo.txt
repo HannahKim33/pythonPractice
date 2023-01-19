@@ -1,0 +1,20 @@
+{'title': '실전에서 바로 쓰는 Next.js', 'price': '26,000원', 'author': '미셸 리바 ', 'reldate': '2023-01-20', 'pages': '332 쪽'}
+{'title': '(NO.1 영상 편집 유튜버) 비됴클래스의 유튜브 영상 편집 with 프리미어 프로', 'price': '23,000원', 'author': '하지원(비됴클래스) ', 'reldate': '2023-01-18', 'pages': '372 쪽'}
+{'title': '업무에 바로 쓰는 AWS 입문', 'price': '27,000원', 'author': '김성민 ', 'reldate': '2023-01-10', 'pages': '360 쪽'}
+{'title': '나도 손글씨 반듯하게 잘 쓰면 소원이 없겠네', 'price': '13,800원', 'author': '유한빈(펜크래프트) ', 'reldate': '2023-01-06', 'pages': '160 쪽'}
+{'title': '성공하는 유튜브 채널은 따로 있다', 'price': '18,000원', 'author': '강차분PD ', 'reldate': '2023-01-06', 'pages': '320 쪽'}
+{'title': '프로덕트 매니저는 무슨 일을 하고 있을까', 'price': '20,000원', 'author': '개점휴업 , 최민 ', 'reldate': '2023-01-06', 'pages': '244 쪽'}
+{'title': 'IT CookBook, 컴퓨터 비전과 딥러닝', 'price': '39,000원', 'author': '오일석 ', 'reldate': '2023-01-05', 'pages': '664 쪽'}
+{'title': '[엉뚱소심 유령 탐정단] 3. 무대 뒤의 유령', 'price': '13,000원', 'author': '도리 힐레스타드 버틀러 , 오로르 다망(그림) ', 'reldate': '2023-01-05', 'pages': '132 쪽'}
+{'title': '유럽 풍경 수채화 컬러링북', 'price': '17,500원', 'author': '정진호 ', 'reldate': '2023-01-05', 'pages': '148 쪽'}
+{'title': '러닝 타입스크립트', 'price': '26,000원', 'author': '조시 골드버그 ', 'reldate': '2023-01-02', 'pages': '372 쪽'}
+{'title': '리더십 : 이론과 실제 (9판)', 'price': '36,000원', 'author': 'Peter G. Northouse ', 'reldate': '2023-01-02', 'pages': '660 쪽'}
+{'title': '혼자 공부하는 데이터 분석 with 파이썬', 'price': '26,000원', 'author': '박해선 ', 'reldate': '2023-01-02', 'pages': '496 쪽'}
+{'title': 'IT CookBook, JAVA 마스터', 'price': '30,000원', 'author': '송미영 ', 'reldate': '2023-01-01', 'pages': '732 쪽'}
+{'title': 'IT CookBook, 데이터 과학을 위한 파이썬 프로그래밍(2판)', 'price': '30,000원', 'author': '최성철 ', 'reldate': '2023-01-01', 'pages': '540 쪽'}
+{'title': 'IT CookBook, 생활 속 예제로 배우는 생생 데이터 분석', 'price': '23,000원', 'author': '조인석 ', 'reldate': '2023-01-01', 'pages': '428 쪽'}
+{'title': 'IT CookBook, 파워포인트 2019', 'price': '20,000원', 'author': '김지연 ', 'reldate': '2023-01-01', 'pages': '440 쪽'}
+{'title': '메타버스로 구현하는 나만의 세상', 'price': '23,000원', 'author': '한규정 , 최종원 , 강신조 , 심민정 , 안형준 , 위새람 , 최동일 ', 'reldate': '2023-01-01', 'pages': '388 쪽'}
+{'title': '국제경영학 : 환경과 운영 (17판)', 'price': '41,000원', 'author': 'John D. Daniels , Lee H. Radebaugh , Daniel P. Sullivan , Reid W. Click ', 'reldate': '2022-12-30', 'pages': '716 쪽'}
+{'title': '유류품 이야기', 'price': '19,800원', 'author': '로버트 젠슨 ', 'reldate': '2022-12-30', 'pages': '408 쪽'}
+{'title': '자바스크립트로 배우는 SICP', 'price': '45,000원', 'author': '해럴드 에이블슨 , 제럴드 제이 서스먼 , 마틴 헨즈 , 토비아스 브릭스타드 , 줄리 서스먼 ', 'reldate': '2022-12-30', 'pages': '884 쪽'}
