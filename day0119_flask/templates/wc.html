@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<!--    <script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>-->
+<!--    <script>-->
+<!--        $(function(){-->
+<!--            $("#f").submit(function(e){-->
+<!--                e.preventDefault()-->
+<!--            })-->
+<!--            $("#btnplus").click(function(){-->
+<!--                var i=$("<input>").addClass("stopwords")-->
+<!--                $("#f").insertBefore(i, $("#f").children[4])-->
+<!--            })-->
+<!--        })-->
+
+<!--    </script>-->
+</head>
+<body>
+  <form action="/make_wc" method="post" id="f">
+    <input type="text" name="txt_name" placeholder="텍스트파일명"><br>
+    <input type="text" name="img_name" placeholder="이미지파일명"><br>
+    <input type="text" name="stopwords" placeholder="불용어" size="100">
+    <br>
+    <input type="text" name="msk_name" placeholder="마스크파일명"><br>
+    <input type="submit" value="등록">
+  </form>
+    <hr>
+</body>
+</html>

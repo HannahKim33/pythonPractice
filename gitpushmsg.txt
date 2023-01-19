@@ -1,0 +1,474 @@
+10:25:50.370: [pythonProject] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false add --ignore-errors -A -- Data/ml-1m/movies.dat day0111/ex04_mpg.py day0117/ex08_sns_graph08.py day0110/Data/bookinfo.txt day0118/ex04_team_02.py day0110/ex06_hanbit.py day0118/ex02_bts.py day0110/ex05_naver.py day0112/ex02_value_counts.py Data/plot_styles.png day0113/ex02_graph.py Data/Population_SIG.csv day0118/ex01_textmining.py day0111/ex09_preprocessing_mpg.py Data/exam.csv day0111/ex08_preprocessing02.py day0110/ex21_team.py day0117/ex03_sns_graph03.py day0117/ex09_sns_graph09.py Data/DoHyeon-Regular.ttf "Data/world-series/MLB World Series Losers_ 1903-2016.xlsx" day0111/ex10_team.py Data/movie_script.txt Data/excel_exam_novar.xlsx day0111/ex05_exam.py day0117/ex07_sns_graph07.py "Data/국가별수출입 실적_201711305.xls" Data/scores.csv Data/Koweps_Codebook_2019.xlsx day0110/Data/bookinfo.json day0110/ex17_readexcel.py day0110/ex03_bs03.py Data/excel_exam.xlsx day0117/ex02_sns_graph02.py day0117/ex01_sns_graph.py day0110/ex02_bs2.py day0112/ex01_test.py "Data/시도별 전출입 인구수.xlsx" day0111/ex01_review_naver.py Data/economics.csv day0110/ex09_newbook_all_t.py Data/ml-1m/README day0116/ex02_team.py Data/ml-1m/users.dat day0112/ex10_abnormality.py day0113/ex01_test.py day0118/ex04_team.py day0110/ex18_csv.py Data/2016_GDP.txt "Data/world-series/MLB World Series Champions_ 1903-2016.xlsx" day0110/ex09_newbook_all.py day0117/ex06_sns_graph06.py day0119/ex01_wordcloud_moviescript02.py Data/leaf.csv day0110/Data/review.txt Data/README.md day0110/ex14_seaborn.py day0110/ex01_bs.py day0110/hanb_module.py day0111/ex06_midwest.py Data/SIG_Seoul.geojson day0110/ex06_naver_news.py day0111/ex02_selenium.py day0110/ex11_hanb_test.py day0119/ex01_wordcloud_moviescript.py Data/speech_moon.txt Data/world-series/baseball.txt Data/midwest.csv day0110/ex15_sklearn.py day0112/ex07_midwest_exam.py day0110/ex08_link_of_link.py "Data/(2019년 14차 한국복지패널조사) 조사설계서(beta2).zip" Data/SIG.geojson Data/Foreigner_EMD_Seoul.csv Data/mtcars.csv Data/yob1880.txt day0111/Data/review.txt day0110/ex16_pandas.py day0117/ex05_sns_graph05.py Data/Koweps_hpwc14_2019_beta2.md Data/adult.data.txt Data/news_comment_BTS.csv day0112/exam09_missing_exam.py day0112/ex11_where_na_with_str.py Data/adult.csv day0110/ex10_bookinfo.py day0111/ex03_rename.py day0112/ex08_missing_data.py day0112/ex13_team.py day0110/ex05_urllib.py day0110/ex13_lambda.py day0110/ex19_exam.py day0110/ex12_readNewBook.py day0117/ex10_sns_graph10.py Data/mpg.csv day0112/ex12_outlier.py day0111/ex07_preprocessing.py day0116/ex01_titanic.py day0117/ex12_moving_seoul_out_top.py day0118/ex02_bts_02.py Data/EMD_Seoul.geojson Data/movie_script01.txt Data/cloud.png day0117/ex04_sns_graph04.py day0112/ex06.py Data/ml-1m/ratings.dat day0110/ex20_mpg.py day0117/ex11_moving.py day0112/ex03_selenium.py Data/i_have_a_dream.txt Data/kma.csv "Data/world-series/World Series Champions vs. Losers_ 1903-2016.xlsx" day0110/ex04_bs4.py
+warning: in the working copy of 'Data/2016_GDP.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/EMD_Seoul.geojson', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/Foreigner_EMD_Seoul.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/Koweps_hpwc14_2019_beta2.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/Population_SIG.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/SIG.geojson', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/SIG_Seoul.geojson', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/adult.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/adult.data.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/economics.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/exam.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/leaf.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/midwest.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/ml-1m/README', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/ml-1m/movies.dat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/ml-1m/ratings.dat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/ml-1m/users.dat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/mpg.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/mtcars.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/news_comment_BTS.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/scores.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Data/speech_moon.txt', LF will be replaced by CRLF the next time Git touches it
+10:25:54.893: [pythonProject] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false add --ignore-errors -A -f -- Data/ml-1m/movies.dat day0111/ex04_mpg.py day0117/ex08_sns_graph08.py day0110/Data/bookinfo.txt day0118/ex04_team_02.py day0110/ex06_hanbit.py day0118/ex02_bts.py day0110/ex05_naver.py day0112/ex02_value_counts.py Data/plot_styles.png day0113/ex02_graph.py day0118/ex01_textmining.py Data/Population_SIG.csv day0111/ex09_preprocessing_mpg.py Data/exam.csv day0111/ex08_preprocessing02.py day0117/ex03_sns_graph03.py day0110/ex21_team.py day0117/ex09_sns_graph09.py Data/DoHyeon-Regular.ttf "Data/world-series/MLB World Series Losers_ 1903-2016.xlsx" day0111/ex10_team.py Data/movie_script.txt day0111/ex05_exam.py Data/excel_exam_novar.xlsx day0117/ex07_sns_graph07.py "Data/국가별수출입 실적_201711305.xls" Data/scores.csv Data/Koweps_Codebook_2019.xlsx day0110/Data/bookinfo.json day0110/ex17_readexcel.py day0110/ex03_bs03.py Data/excel_exam.xlsx day0117/ex02_sns_graph02.py day0117/ex01_sns_graph.py day0110/ex02_bs2.py day0112/ex01_test.py day0111/ex01_review_naver.py "Data/시도별 전출입 인구수.xlsx" Data/economics.csv day0110/ex09_newbook_all_t.py Data/ml-1m/README day0116/ex02_team.py day0112/ex10_abnormality.py Data/ml-1m/users.dat day0113/ex01_test.py day0118/ex04_team.py day0110/ex18_csv.py Data/2016_GDP.txt "Data/world-series/MLB World Series Champions_ 1903-2016.xlsx" day0110/ex09_newbook_all.py day0119/ex01_wordcloud_moviescript02.py day0117/ex06_sns_graph06.py Data/leaf.csv day0110/Data/review.txt Data/README.md day0110/ex14_seaborn.py day0110/ex01_bs.py day0110/hanb_module.py day0111/ex06_midwest.py Data/SIG_Seoul.geojson day0111/ex02_selenium.py day0110/ex06_naver_news.py day0110/ex11_hanb_test.py day0119/ex01_wordcloud_moviescript.py Data/speech_moon.txt Data/world-series/baseball.txt Data/midwest.csv day0110/ex15_sklearn.py day0112/ex07_midwest_exam.py day0110/ex08_link_of_link.py "Data/(2019년 14차 한국복지패널조사) 조사설계서(beta2).zip" Data/SIG.geojson Data/Foreigner_EMD_Seoul.csv Data/mtcars.csv Data/yob1880.txt day0111/Data/review.txt day0110/ex16_pandas.py day0117/ex05_sns_graph05.py Data/Koweps_hpwc14_2019_beta2.md Data/adult.data.txt day0112/exam09_missing_exam.py Data/news_comment_BTS.csv day0112/ex11_where_na_with_str.py Data/adult.csv day0111/ex03_rename.py day0110/ex10_bookinfo.py day0112/ex08_missing_data.py day0112/ex13_team.py day0110/ex05_urllib.py day0110/ex13_lambda.py day0110/ex19_exam.py day0110/ex12_readNewBook.py day0117/ex10_sns_graph10.py day0112/ex12_outlier.py Data/mpg.csv day0111/ex07_preprocessing.py day0116/ex01_titanic.py day0118/ex02_bts_02.py day0117/ex12_moving_seoul_out_top.py Data/EMD_Seoul.geojson Data/movie_script01.txt Data/cloud.png day0117/ex04_sns_graph04.py day0112/ex06.py day0110/ex20_mpg.py Data/ml-1m/ratings.dat day0117/ex11_moving.py day0112/ex03_selenium.py Data/i_have_a_dream.txt Data/kma.csv day0110/ex04_bs4.py "Data/world-series/World Series Champions vs. Losers_ 1903-2016.xlsx"
+10:25:54.952: [pythonProject] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false commit -F C:\Users\user\AppData\Local\Temp\git-commit-msg-.txt --
+[master 074543c] 2
+ 113 files changed, 1111488 insertions(+)
+ create mode 100644 Data/(2019년 14차 한국복지패널조사) 조사설계서(beta2).zip
+ create mode 100644 Data/2016_GDP.txt
+ create mode 100644 Data/DoHyeon-Regular.ttf
+ create mode 100644 Data/EMD_Seoul.geojson
+ create mode 100644 Data/Foreigner_EMD_Seoul.csv
+ create mode 100644 Data/Koweps_Codebook_2019.xlsx
+ create mode 100644 Data/Koweps_hpwc14_2019_beta2.md
+ create mode 100644 Data/Population_SIG.csv
+ create mode 100644 Data/README.md
+ create mode 100644 Data/SIG.geojson
+ create mode 100644 Data/SIG_Seoul.geojson
+ create mode 100644 Data/adult.csv
+ create mode 100644 Data/adult.data.txt
+ create mode 100644 Data/cloud.png
+ create mode 100644 Data/economics.csv
+ create mode 100644 Data/exam.csv
+ create mode 100644 Data/excel_exam.xlsx
+ create mode 100644 Data/excel_exam_novar.xlsx
+ create mode 100644 Data/i_have_a_dream.txt
+ create mode 100644 Data/kma.csv
+ create mode 100644 Data/leaf.csv
+ create mode 100644 Data/midwest.csv
+ create mode 100644 Data/ml-1m/README
+ create mode 100644 Data/ml-1m/movies.dat
+ create mode 100644 Data/ml-1m/ratings.dat
+ create mode 100644 Data/ml-1m/users.dat
+ create mode 100644 Data/movie_script.txt
+ create mode 100644 Data/movie_script01.txt
+ create mode 100644 Data/mpg.csv
+ create mode 100644 Data/mtcars.csv
+ create mode 100644 Data/news_comment_BTS.csv
+ create mode 100644 Data/plot_styles.png
+ create mode 100644 Data/scores.csv
+ create mode 100644 Data/speech_moon.txt
+ create mode 100644 Data/world-series/MLB World Series Champions_ 1903-2016.xlsx
+ create mode 100644 Data/world-series/MLB World Series Losers_ 1903-2016.xlsx
+ create mode 100644 Data/world-series/World Series Champions vs. Losers_ 1903-2016.xlsx
+ create mode 100644 Data/world-series/baseball.txt
+ create mode 100644 Data/yob1880.txt
+ create mode 100644 Data/국가별수출입 실적_201711305.xls
+ create mode 100644 Data/시도별 전출입 인구수.xlsx
+ create mode 100644 day0110/Data/bookinfo.json
+ create mode 100644 day0110/Data/bookinfo.txt
+ create mode 100644 day0110/Data/review.txt
+ create mode 100644 day0110/ex01_bs.py
+ create mode 100644 day0110/ex02_bs2.py
+ create mode 100644 day0110/ex03_bs03.py
+ create mode 100644 day0110/ex04_bs4.py
+ create mode 100644 day0110/ex05_naver.py
+ create mode 100644 day0110/ex05_urllib.py
+ create mode 100644 day0110/ex06_hanbit.py
+ create mode 100644 day0110/ex06_naver_news.py
+ create mode 100644 day0110/ex08_link_of_link.py
+ create mode 100644 day0110/ex09_newbook_all.py
+ create mode 100644 day0110/ex09_newbook_all_t.py
+ create mode 100644 day0110/ex10_bookinfo.py
+ create mode 100644 day0110/ex11_hanb_test.py
+ create mode 100644 day0110/ex12_readNewBook.py
+ create mode 100644 day0110/ex13_lambda.py
+ create mode 100644 day0110/ex14_seaborn.py
+ create mode 100644 day0110/ex15_sklearn.py
+ create mode 100644 day0110/ex16_pandas.py
+ create mode 100644 day0110/ex17_readexcel.py
+ create mode 100644 day0110/ex18_csv.py
+ create mode 100644 day0110/ex19_exam.py
+ create mode 100644 day0110/ex20_mpg.py
+ create mode 100644 day0110/ex21_team.py
+ create mode 100644 day0110/hanb_module.py
+ create mode 100644 day0111/Data/review.txt
+ create mode 100644 day0111/ex01_review_naver.py
+ create mode 100644 day0111/ex02_selenium.py
+ create mode 100644 day0111/ex03_rename.py
+ create mode 100644 day0111/ex04_mpg.py
+ create mode 100644 day0111/ex05_exam.py
+ create mode 100644 day0111/ex06_midwest.py
+ create mode 100644 day0111/ex07_preprocessing.py
+ create mode 100644 day0111/ex08_preprocessing02.py
+ create mode 100644 day0111/ex09_preprocessing_mpg.py
+ create mode 100644 day0111/ex10_team.py
+ create mode 100644 day0112/ex01_test.py
+ create mode 100644 day0112/ex02_value_counts.py
+ create mode 100644 day0112/ex03_selenium.py
+ create mode 100644 day0112/ex06.py
+ create mode 100644 day0112/ex07_midwest_exam.py
+ create mode 100644 day0112/ex08_missing_data.py
+ create mode 100644 day0112/ex10_abnormality.py
+ create mode 100644 day0112/ex11_where_na_with_str.py
+ create mode 100644 day0112/ex12_outlier.py
+ create mode 100644 day0112/ex13_team.py
+ create mode 100644 day0112/exam09_missing_exam.py
+ create mode 100644 day0113/ex01_test.py
+ create mode 100644 day0113/ex02_graph.py
+ create mode 100644 day0116/ex01_titanic.py
+ create mode 100644 day0116/ex02_team.py
+ create mode 100644 day0117/ex01_sns_graph.py
+ create mode 100644 day0117/ex02_sns_graph02.py
+ create mode 100644 day0117/ex03_sns_graph03.py
+ create mode 100644 day0117/ex04_sns_graph04.py
+ create mode 100644 day0117/ex05_sns_graph05.py
+ create mode 100644 day0117/ex06_sns_graph06.py
+ create mode 100644 day0117/ex07_sns_graph07.py
+ create mode 100644 day0117/ex08_sns_graph08.py
+ create mode 100644 day0117/ex09_sns_graph09.py
+ create mode 100644 day0117/ex10_sns_graph10.py
+ create mode 100644 day0117/ex11_moving.py
+ create mode 100644 day0117/ex12_moving_seoul_out_top.py
+ create mode 100644 day0118/ex01_textmining.py
+ create mode 100644 day0118/ex02_bts.py
+ create mode 100644 day0118/ex02_bts_02.py
+ create mode 100644 day0118/ex04_team.py
+ create mode 100644 day0118/ex04_team_02.py
+ create mode 100644 day0119/ex01_wordcloud_moviescript.py
+ create mode 100644 day0119/ex01_wordcloud_moviescript02.py
+10:26:41.686: [pythonProject] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false push --progress --porcelain origin refs/heads/master:refs/heads/master --set-upstream
+Enumerating objects: 200, done.
+Counting objects:   0% (1/200)
+Counting objects:   1% (2/200)
+Counting objects:   2% (4/200)
+Counting objects:   3% (6/200)
+Counting objects:   4% (8/200)
+Counting objects:   5% (10/200)
+Counting objects:   6% (12/200)
+Counting objects:   7% (14/200)
+Counting objects:   8% (16/200)
+Counting objects:   9% (18/200)
+Counting objects:  10% (20/200)
+Counting objects:  11% (22/200)
+Counting objects:  12% (24/200)
+Counting objects:  13% (26/200)
+Counting objects:  14% (28/200)
+Counting objects:  15% (30/200)
+Counting objects:  16% (32/200)
+Counting objects:  17% (34/200)
+Counting objects:  18% (36/200)
+Counting objects:  19% (38/200)
+Counting objects:  20% (40/200)
+Counting objects:  21% (42/200)
+Counting objects:  22% (44/200)
+Counting objects:  23% (46/200)
+Counting objects:  24% (48/200)
+Counting objects:  25% (50/200)
+Counting objects:  26% (52/200)
+Counting objects:  27% (54/200)
+Counting objects:  28% (56/200)
+Counting objects:  29% (58/200)
+Counting objects:  30% (60/200)
+Counting objects:  31% (62/200)
+Counting objects:  32% (64/200)
+Counting objects:  33% (66/200)
+Counting objects:  34% (68/200)
+Counting objects:  35% (70/200)
+Counting objects:  36% (72/200)
+Counting objects:  37% (74/200)
+Counting objects:  38% (76/200)
+Counting objects:  39% (78/200)
+Counting objects:  40% (80/200)
+Counting objects:  41% (82/200)
+Counting objects:  42% (84/200)
+Counting objects:  43% (86/200)
+Counting objects:  44% (88/200)
+Counting objects:  45% (90/200)
+Counting objects:  46% (92/200)
+Counting objects:  47% (94/200)
+Counting objects:  48% (96/200)
+Counting objects:  49% (98/200)
+Counting objects:  50% (100/200)
+Counting objects:  51% (102/200)
+Counting objects:  52% (104/200)
+Counting objects:  53% (106/200)
+Counting objects:  54% (108/200)
+Counting objects:  55% (110/200)
+Counting objects:  56% (112/200)
+Counting objects:  57% (114/200)
+Counting objects:  58% (116/200)
+Counting objects:  59% (118/200)
+Counting objects:  60% (120/200)
+Counting objects:  61% (122/200)
+Counting objects:  62% (124/200)
+Counting objects:  63% (126/200)
+Counting objects:  64% (128/200)
+Counting objects:  65% (130/200)
+Counting objects:  66% (132/200)
+Counting objects:  67% (134/200)
+Counting objects:  68% (136/200)
+Counting objects:  69% (138/200)
+Counting objects:  70% (140/200)
+Counting objects:  71% (142/200)
+Counting objects:  72% (144/200)
+Counting objects:  73% (146/200)
+Counting objects:  74% (148/200)
+Counting objects:  75% (150/200)
+Counting objects:  76% (152/200)
+Counting objects:  77% (154/200)
+Counting objects:  78% (156/200)
+Counting objects:  79% (158/200)
+Counting objects:  80% (160/200)
+Counting objects:  81% (162/200)
+Counting objects:  82% (164/200)
+Counting objects:  83% (166/200)
+Counting objects:  84% (168/200)
+Counting objects:  85% (170/200)
+Counting objects:  86% (172/200)
+Counting objects:  87% (174/200)
+Counting objects:  88% (176/200)
+Counting objects:  89% (178/200)
+Counting objects:  90% (180/200)
+Counting objects:  91% (182/200)
+Counting objects:  92% (184/200)
+Counting objects:  93% (186/200)
+Counting objects:  94% (188/200)
+Counting objects:  95% (190/200)
+Counting objects:  96% (192/200)
+Counting objects:  97% (194/200)
+Counting objects:  98% (196/200)
+Counting objects:  99% (198/200)
+Counting objects: 100% (200/200)
+Counting objects: 100% (200/200), done.
+Delta compression using up to 12 threads
+Compressing objects:   0% (1/195)
+Compressing objects:   1% (2/195)
+Compressing objects:   2% (4/195)
+Compressing objects:   3% (6/195)
+Compressing objects:   4% (8/195)
+Compressing objects:   5% (10/195)
+Compressing objects:   6% (12/195)
+Compressing objects:   7% (14/195)
+Compressing objects:   8% (16/195)
+Compressing objects:   9% (18/195)
+Compressing objects:  10% (20/195)
+Compressing objects:  11% (22/195)
+Compressing objects:  12% (24/195)
+Compressing objects:  13% (26/195)
+Compressing objects:  14% (28/195)
+Compressing objects:  15% (30/195)
+Compressing objects:  16% (32/195)
+Compressing objects:  17% (34/195)
+Compressing objects:  18% (36/195)
+Compressing objects:  19% (38/195)
+Compressing objects:  20% (39/195)
+Compressing objects:  21% (41/195)
+Compressing objects:  22% (43/195)
+Compressing objects:  23% (45/195)
+Compressing objects:  24% (47/195)
+Compressing objects:  25% (49/195)
+Compressing objects:  26% (51/195)
+Compressing objects:  27% (53/195)
+Compressing objects:  28% (55/195)
+Compressing objects:  29% (57/195)
+Compressing objects:  30% (59/195)
+Compressing objects:  31% (61/195)
+Compressing objects:  32% (63/195)
+Compressing objects:  33% (65/195)
+Compressing objects:  34% (67/195)
+Compressing objects:  35% (69/195)
+Compressing objects:  36% (71/195)
+Compressing objects:  37% (73/195)
+Compressing objects:  38% (75/195)
+Compressing objects:  39% (77/195)
+Compressing objects:  40% (78/195)
+Compressing objects:  41% (80/195)
+Compressing objects:  42% (82/195)
+Compressing objects:  43% (84/195)
+Compressing objects:  44% (86/195)
+Compressing objects:  45% (88/195)
+Compressing objects:  46% (90/195)
+Compressing objects:  47% (92/195)
+Compressing objects:  48% (94/195)
+Compressing objects:  49% (96/195)
+Compressing objects:  50% (98/195)
+Compressing objects:  51% (100/195)
+Compressing objects:  52% (102/195)
+Compressing objects:  53% (104/195)
+Compressing objects:  54% (106/195)
+Compressing objects:  55% (108/195)
+Compressing objects:  56% (110/195)
+Compressing objects:  57% (112/195)
+Compressing objects:  58% (114/195)
+Compressing objects:  59% (116/195)
+Compressing objects:  60% (117/195)
+Compressing objects:  61% (119/195)
+Compressing objects:  62% (121/195)
+Compressing objects:  63% (123/195)
+Compressing objects:  64% (125/195)
+Compressing objects:  65% (127/195)
+Compressing objects:  66% (129/195)
+Compressing objects:  67% (131/195)
+Compressing objects:  68% (133/195)
+Compressing objects:  69% (135/195)
+Compressing objects:  70% (137/195)
+Compressing objects:  71% (139/195)
+Compressing objects:  72% (141/195)
+Compressing objects:  73% (143/195)
+Compressing objects:  74% (145/195)
+Compressing objects:  75% (147/195)
+Compressing objects:  76% (149/195)
+Compressing objects:  77% (151/195)
+Compressing objects:  78% (153/195)
+Compressing objects:  79% (155/195)
+Compressing objects:  80% (156/195)
+Compressing objects:  81% (158/195)
+Compressing objects:  82% (160/195)
+Compressing objects:  83% (162/195)
+Compressing objects:  84% (164/195)
+Compressing objects:  85% (166/195)
+Compressing objects:  86% (168/195)
+Compressing objects:  87% (170/195)
+Compressing objects:  88% (172/195)
+Compressing objects:  89% (174/195)
+Compressing objects:  90% (176/195)
+Compressing objects:  91% (178/195)
+Compressing objects:  92% (180/195)
+Compressing objects:  93% (182/195)
+Compressing objects:  94% (184/195)
+Compressing objects:  95% (186/195)
+Compressing objects:  96% (188/195)
+Compressing objects:  97% (190/195)
+Compressing objects:  98% (192/195)
+Compressing objects:  99% (194/195)
+Compressing objects: 100% (195/195)
+Compressing objects: 100% (195/195), done.
+Writing objects:   0% (1/200)
+Writing objects:   1% (2/200)
+Writing objects:   2% (4/200)
+Writing objects:   3% (6/200)
+Writing objects:   4% (8/200)
+Writing objects:   5% (10/200)
+Writing objects:   6% (12/200)
+Writing objects:   7% (14/200)
+Writing objects:   7% (15/200), 3.29 MiB | 2.62 MiB/s
+Writing objects:   8% (16/200), 3.29 MiB | 2.62 MiB/s
+Writing objects:   9% (18/200), 3.29 MiB | 2.62 MiB/s
+Writing objects:  10% (20/200), 3.29 MiB | 2.62 MiB/s
+Writing objects:  10% (21/200), 3.43 MiB | 890.00 KiB/s
+Writing objects:  10% (21/200), 7.85 MiB | 1.68 MiB/s  
+Writing objects:  10% (21/200), 13.78 MiB | 2.67 MiB/s
+Writing objects:  10% (21/200), 20.77 MiB | 3.37 MiB/s
+Writing objects:  11% (22/200), 20.77 MiB | 3.37 MiB/s
+Writing objects:  12% (24/200), 20.77 MiB | 3.37 MiB/s
+Writing objects:  13% (26/200), 24.79 MiB | 3.71 MiB/s
+Writing objects:  14% (28/200), 24.79 MiB | 3.71 MiB/s
+Writing objects:  15% (30/200), 24.79 MiB | 3.71 MiB/s
+Writing objects:  16% (32/200), 24.79 MiB | 3.71 MiB/s
+Writing objects:  17% (34/200), 24.79 MiB | 3.71 MiB/s
+Writing objects:  18% (36/200), 24.79 MiB | 3.71 MiB/s
+Writing objects:  19% (39/200), 24.79 MiB | 3.71 MiB/s
+Writing objects:  19% (39/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  20% (40/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  21% (42/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  22% (44/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  23% (46/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  24% (48/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  25% (50/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  26% (52/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  27% (54/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  28% (56/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  29% (58/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  30% (60/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  31% (62/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  32% (64/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  33% (66/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  34% (68/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  35% (70/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  36% (72/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  37% (75/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  38% (76/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  39% (78/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  40% (80/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  41% (82/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  42% (84/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  43% (86/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  44% (88/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  45% (90/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  46% (92/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  47% (94/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  48% (96/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  49% (98/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  50% (100/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  51% (102/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  52% (104/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  53% (106/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  54% (108/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  55% (110/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  56% (112/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  57% (114/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  58% (116/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  59% (118/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  60% (120/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  61% (122/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  62% (124/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  63% (126/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  64% (128/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  65% (130/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  66% (132/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  67% (134/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  68% (136/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  69% (138/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  70% (140/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  71% (142/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  72% (144/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  73% (146/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  74% (148/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  75% (150/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  76% (152/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  77% (154/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  78% (156/200), 25.73 MiB | 3.33 MiB/s
+Writing objects:  79% (158/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  80% (160/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  81% (162/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  82% (164/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  83% (166/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  84% (168/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  85% (170/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  86% (172/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  87% (174/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  88% (176/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  89% (178/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  90% (180/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  91% (182/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  92% (184/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  93% (186/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  94% (188/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  95% (190/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  96% (192/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  97% (194/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  98% (196/200), 31.79 MiB | 4.11 MiB/s
+Writing objects:  99% (198/200), 31.79 MiB | 4.11 MiB/s
+Writing objects: 100% (200/200), 31.79 MiB | 4.11 MiB/s
+Writing objects: 100% (200/200), 31.81 MiB | 3.86 MiB/s, done.
+Total 200 (delta 8), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/8)        
+remote: Resolving deltas:  12% (1/8)        
+remote: Resolving deltas:  25% (2/8)        
+remote: Resolving deltas:  37% (3/8)        
+remote: Resolving deltas:  50% (4/8)        
+remote: Resolving deltas:  62% (5/8)        
+remote: Resolving deltas:  75% (6/8)        
+remote: Resolving deltas:  87% (7/8)        
+remote: Resolving deltas: 100% (8/8)        
+remote: Resolving deltas: 100% (8/8), done.        
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File Data/SIG.geojson is 56.98 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/HannahKim33/pythonProject.git
+*	refs/heads/master:refs/heads/master	[new branch]
+branch 'master' set up to track 'origin/master'.
+Done

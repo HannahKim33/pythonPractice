@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <td>고객이름</td>
+            <td>전화</td>
+            <td>나이</td>
+        </tr>
+        {% for row in list %}
+            <tr>
+                <td>{{row.name}}</td>
+                <td>{{row.ph}}</td>
+                <td>{{row.age}}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
