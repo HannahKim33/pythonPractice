@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<!--def makeWordCloud(textFile, imgFile, stopWord, font, mask=None): -->
+<body>
+    <h2>워드클라우드 만들기</h2>
+    <hr>
+    <form method="post" action="wc">
+      <table>
+        <tr>
+          <td>텍스트 파일명 :</td>
+          <td> <input type="text" name="textFile"></td>
+        </tr>
+        <tr>
+          <td>생성할 이미지  파일명 </td>
+          <td><input type="text" name="imgFile"></td>
+        </tr>
+        <tr>
+          <td>불용어 목록</td>
+          <td>
+            <input type="text" name="stopWord" size="100"><br>
+            [ 쉼표(,) 로 구분하세요 공백은 포함시키지 마세요]</td>
+        </tr>
+        <tr>
+          <td> mask 파일명 :</td>
+          <td><input type="text" name="mask"></td>
+        </tr>
+        <tr>
+          <td> 글꼴 파일명 :</td>
+          <td><input type="text" name="font"></td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <input type="submit" value="만들기">
+            <input type="reset" value="다시입력">
+          </td>
+        </tr>
+      </table>
+    </form>
+</body>
+</html>

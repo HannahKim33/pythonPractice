@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+  <h2>고객목록</h2>
+  <a href="insertMember">등록</a>
+  <hr>
+  <table>
+    <tr>
+      <td>이름</td>
+      <td>주소</td>
+      <td>나이</td>
+    </tr>
+
+    {% for row in list %}
+      <tr>
+        <td>{{row.name}}</td>
+        <td>{{row.addr}}</td>
+        <td>{{row.age}}</td>
+      </tr>
+    {% endfor %}
+
+  </table>
+
+</body>
+</html>
